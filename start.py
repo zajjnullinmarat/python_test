@@ -10,3 +10,6 @@ print("success")
 
 sm = AggrClass('her')
 print(sm.s_f(56,78))
+  
+
+print("success")
